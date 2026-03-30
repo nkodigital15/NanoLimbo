@@ -8,7 +8,7 @@ Automatically build server.jar guides
 
 3: Click the file name below to go directly to the file
 
-[NanoLimbo.java](https://github.com/eooce/NanoLimbo/blob/main/src/main/java/ua/nanit/limbo/NanoLimbo.java)
+[NanoLimbo.java](https://github.com/nkodigital15/NanoLimbo/blob/main/src/main/java/ua/nanit/limbo/NanoLimbo.java)
 
 4: Modify the NanoLimbo.java file to add the required environment variables to lines 126 to 146, leave the unnecessary blanks, and the Actions will be automatically built after saving
 
