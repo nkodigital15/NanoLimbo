@@ -1,6 +1,7 @@
 # NanoLimbo
 
 Automatically build server.jar guides
+
 1: Fork this project
 
 2: In the Actions menu, click the Allow buttonI understand my workflows, go ahead and enable them
