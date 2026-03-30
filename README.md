@@ -1,14 +1,13 @@
 # NanoLimbo
 
-### 自动构建server.jar指南
+Automatically build server.jar guides
+1: Fork this project
 
-1：fork本项目
+2: In the Actions menu, click the Allow buttonI understand my workflows, go ahead and enable them
 
-2：在Actions菜单允许 `I understand my workflows, go ahead and enable them` 按钮
+3: Click the file name below to go directly to the file
 
-3: 击下方文件名直达文件
-- [NanoLimbo.java](./src/main/java/ua/nanit/limbo/NanoLimbo.java)
+NanoLimbo.java
+4: Modify the NanoLimbo.java file to add the required environment variables to lines 126 to 146, leave the unnecessary blanks, and the Actions will be automatically built after saving
 
-4: 修改NanoLimbo.java文件里 126到146 行中添加需要的环境变量，不需要的留空，保存后Actions会自动构建
-
-5：等待2分钟左右，在右侧的Release里下载server.jar文件
+5: Wait for about 2 minutes to download the server.jar file in the Release on the right
